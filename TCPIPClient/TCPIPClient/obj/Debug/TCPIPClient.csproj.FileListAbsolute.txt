@@ -1,0 +1,28 @@
+c:\users\milan conhye\documents\visual studio 2015\Projects\TCPIPClient\TCPIPClient\bin\Debug\TCPIPClient.exe.config
+c:\users\milan conhye\documents\visual studio 2015\Projects\TCPIPClient\TCPIPClient\bin\Debug\TCPIPClient.exe
+c:\users\milan conhye\documents\visual studio 2015\Projects\TCPIPClient\TCPIPClient\bin\Debug\TCPIPClient.pdb
+c:\users\milan conhye\documents\visual studio 2015\Projects\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.csprojResolveAssemblyReference.cache
+c:\users\milan conhye\documents\visual studio 2015\Projects\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.Client.resources
+c:\users\milan conhye\documents\visual studio 2015\Projects\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.Properties.Resources.resources
+c:\users\milan conhye\documents\visual studio 2015\Projects\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.csproj.GenerateResource.Cache
+c:\users\milan conhye\documents\visual studio 2015\Projects\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.exe
+c:\users\milan conhye\documents\visual studio 2015\Projects\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.pdb
+c:\users\milan conhye\documents\visual studio 2015\Projects\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.AboutBox.resources
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_27_16-5_29\TCPIPClient\TCPIPClient\bin\Debug\TCPIPClient.exe.config
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_27_16-5_29\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.exe
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_27_16-5_29\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.pdb
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_28_16-2_59\TCPIPClient\TCPIPClient\bin\Debug\TCPIPClient.exe.config
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_28_16-2_59\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.exe
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_28_16-2_59\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.pdb
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_28_16-2_59\TCPIPClient\TCPIPClient\bin\Debug\TCPIPClient.exe
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_28_16-2_59\TCPIPClient\TCPIPClient\bin\Debug\TCPIPClient.pdb
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_28_16-2_59\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.csprojResolveAssemblyReference.cache
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_28_16-2_59\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.AboutBox.resources
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_28_16-2_59\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.Client.resources
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_28_16-2_59\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.Properties.Resources.resources
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\Backup for TCP S and C\6_28_16-2_59\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.csproj.GenerateResource.Cache
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.TrustInfo.xml
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\TCPIPClient\TCPIPClient\bin\Debug\TCPIPClient.exe.manifest
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\TCPIPClient\TCPIPClient\bin\Debug\TCPIPClient.application
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.exe.manifest
+C:\Users\Milan Conhye\Documents\Visual Studio 2015\Projects\TCPIPClient\TCPIPClient\obj\Debug\TCPIPClient.application
