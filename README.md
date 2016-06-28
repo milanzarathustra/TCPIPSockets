@@ -1,2 +1,2 @@
 # TCPIPSockets
-TCP/IP Server and Client Application made in Visual C#.NET
+TCP/IP Server and Client Application created using Visual C#.NET
