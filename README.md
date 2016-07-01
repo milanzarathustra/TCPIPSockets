@@ -20,7 +20,7 @@ You may specify a loopback address (127.0.0.1/8), on the server and client side,
 Server                                          | Client
 -------------                                   | -------------
 The Server must start first.                    | The Client - Servers IP Address and Port number.
-Must perform and accept connections.            | Exceptions on most or of these processes. 
+Must perform and accept connections.            | Exceptions on most of these processes. 
 Specific IP Address and Port number provided.   |  
 
 <h2>Operation</h2>
