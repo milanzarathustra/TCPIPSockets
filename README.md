@@ -1,6 +1,8 @@
 # TCPIPSockets v0.4
 TCP/IP Server and Client Sockets Application created using Visual C#.NET
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 <h2><b>Note</b></h2>
 
 The initial purpose of this project was to differentiate how a TCP/IP protocol would communicate between one machine and another; compared to other peers to peer communication methods which use the internet of things and DNS (Domain Name Servers). This Application 'TCPIPSockets' was created using 'Visual Studio 2015', therefore when editing these files, be sure to use the guidance of 'Microsoft Visual Studio'. All code is open-source, but a reference to 'Milan Conhye' would be much appreciated. This code does not use the backbone of TCP/IP Sockets Programming, instead uses the .NET Framework provided by 'Microsoft' to make it more readable and considerably easier to program. All code has been thoroughly commented in order to be understood and further extended. 
