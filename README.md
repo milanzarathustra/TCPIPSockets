@@ -11,7 +11,7 @@ The initial purpose of this project was to differentiate how a TCP/IP protocol w
 
 This project has been split into two main programs - 'TCPIPClient' and 'TCPIPServer'. The host machine must have at least the 'TCPIPServer' running and listening, and the client machine must have the 'TCPIPClient' running and connected to the host for them to be able to communicate with each other. These two main folders contain the code which can be opened using Visual Studio. However, if you would like to test the communication, it is recommended to use the executable files contained within the 'TestRun' folder of this branch. 
 
-Requirements: Any version of Windows 7+ with support of NetFramework 4.0.
+Requirements: Any version of Windows 7+ with support the of NetFramework 4.0.
 
 <h2><b>General Knowledge</b></h2>
 
