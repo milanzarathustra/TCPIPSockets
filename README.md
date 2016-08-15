@@ -68,11 +68,11 @@ Various other features are added such as the current time appended on every mess
 So far, we have seen two techniques to listen for incoming connections I.e. A specific IP address, and a loopback address. However, it is possible to listen to incoming connections on both of these IP addresses or any other associated with your PC. To implement this, within the object variable of mTCPListener you can parse the following instead: 
 `mTCPListener = new TcpListener(IPAddress.Any, nPort);` 
 
-<h2>Errors, Bugs and Feedback </h2>
+<h2>Errors, Bugs and Feedback</h2>
 
 If you come across any of those nasty little things, would like to contribute some ideas towards this project or even if you need some guidance - please do leave a comment and I will try my best to respond as fast as possible. 
 
-<<h2>Licence and Agreement</h2>
+<h2>Licence and Agreement</h2>
 
 The software is provided "as is" and the author disclaims all warranties with regard to this software including all implied warranties of merchantability and fitness. This software, does not encrypt the information sent across the network. In no event shall the author be liable for any special, direct, indirect, or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software. Please acknowledge and agree to this agreement before downloading and using this software.
 
