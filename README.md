@@ -3,7 +3,7 @@
 
 TCIPSockets is a peer to peer communication platform which uses TCP (Transmission Control Protocol) to send and receive information between various devices within the same network. TCIPSockets features Date/Time of messages sent, IP verification, validation rules etc. Since TCIPSockets or any application which allows you to communicate between various nodes, you must temporarily disable your firewall or whitelist this application. 
 
-<h2><b>Note</b></h2>
+<h2><b>Requirements and Notes</b></h2>
 
 The initial purpose of this project was to differentiate how a TCP/IP protocol would communicate between one machine and another; compared to other peers to peer communication methods which use the internet of things and DNS (Domain Name Servers). This Application 'TCPIPSockets' was created using 'Visual Studio 2015', therefore when editing these files, be sure to use the guidance of 'Microsoft Visual Studio'. All code is open-source, but a reference to 'Milan Conhye' would be much appreciated. This code does not use the backbone of TCP/IP Sockets Programming, instead uses the .NET Framework provided by 'Microsoft' to make it more readable and considerably easier to program. All code in this program has been thoroughly commented in order to be understood and further extended. 
 
