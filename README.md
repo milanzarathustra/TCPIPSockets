@@ -1,9 +1,7 @@
 # TCPIPSockets v0.4
-TCP/IP Server and Client Sockets Application created using Visual C#.NET.
+<i>TCP/IP Server and Client Sockets Application created using Visual C#.NET.</i>
 
-<h2><b>License</b></h2>
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+TCIPSockets is a peer to peer communication platform which uses TCP (Transmission Control Protocol) to send and receive information between various devices within the same network. TCIPSockets features Date/Time of messages sent, IP verification, validation rules etc. Since TCIPSockets or any application which allows you to communicate between various nodes, you must temporarily disable your firewall or whitelist this application. 
 
 <h2><b>Note</b></h2>
 
@@ -35,21 +33,29 @@ Specific IP Address and Port number provided.   |
 
 As seen in Figure 1, the TCP/IP Server Application features an auto detection of the IPv4 Address and is placed within the configuration panel. You are not obligated to provide a port number and therefore if not specified, a default port number of 23000 will be used. 
 
+<i>Figure 1 - TCP/IP Server</i>
+
 ![TCP/IP Server](/Screenshots/1.png?raw=true "TCP/IP Server")
 
 <h4>TCP/IP Client</h4>
 
 As seen in Figure 2, the client is required to specify their Name, the Server IP, and Server Port number. If the Name and/or IP address are blank then an error message will occur. It is recommended to specify the Server Port number, however, the default port number of 23000 will be provided if the field is blank. If the client is not able to connect to the server, an exception will be thrown. There are many validation rules and error prevention techniques - they will not be featured in this readme file, however, the main error occurrences will. 
 
+<i>Figure 2 - TCP/IP Client</i>
+
 ![TCP/IP Client](/Screenshots/2.png?raw=true "TCP/IP Client")
 
 As seen in Figure 3, if the client has been successfully connected to the server, the client will receive various information which is appended on their console.
+
+<i>Figure 3 - TCP/IP Client</i>
 
 ![TCP/IP Client](/Screenshots/3.png?raw=true "TCP/IP Client")
 
 <h4>TCP/IP Server</h4>
 
 However, on the TCP/IP Server Console, the host is able to see the clients Name and IPv4 address (Figure 4). This is used for safety precautions, if in case the server expects a specific IP address and has received an unknown other. At this point, the server is able to accept multiple connections from other clients.
+
+<i>Figure 4 - TCP/IP Server</i>
 
 ![TCP/IP Server](/Screenshots/4.png?raw=true "TCP/IP Server")
 
@@ -65,3 +71,9 @@ So far, we have seen two techniques to listen for incoming connections I.e. A sp
 <h2>Errors, Bugs and Feedback </h2>
 
 If you come across any of those nasty little things, would like to contribute some ideas towards this project or even if you need some guidance - please do leave a comment and I will try my best to respond as fast as possible. 
+
+<<h2>Licence and Agreement</h2>
+
+The software is provided "as is" and the author disclaims all warranties with regard to this software including all implied warranties of merchantability and fitness. This software, does not encrypt the information sent across the network. In no event shall the author be liable for any special, direct, indirect, or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software. Please acknowledge and agree to this agreement before downloading and using this software.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
