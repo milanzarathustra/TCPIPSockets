@@ -3,7 +3,7 @@
 
 TCIPSockets is a peer to peer communication platform which uses TCP (Transmission Control Protocol) to send and receive information between various devices within the same network. TCIPSockets features Date/Time of messages sent, IP verification, validation rules etc. Since TCIPSockets or any application which allows you to communicate between various nodes, you must temporarily disable your firewall or whitelist this application. 
 
-<h2><b>Requirements and Notes</b></h2>
+<h2>Requirements and Notes</h2>
 
 The initial purpose of this project was to differentiate how a TCP/IP protocol would communicate between one machine and another; compared to other peers to peer communication methods which use the internet of things and DNS (Domain Name Servers). This Application 'TCPIPSockets' was created using 'Visual Studio 2015', therefore when editing these files, be sure to use the guidance of 'Microsoft Visual Studio'. All code is open-source, but a reference to 'Milan Conhye' would be much appreciated. This code does not use the backbone of TCP/IP Sockets Programming, instead uses the .NET Framework provided by 'Microsoft' to make it more readable and considerably easier to program. All code in this program has been thoroughly commented in order to be understood and further extended. 
 
@@ -11,7 +11,7 @@ This project has been split into two main programs - 'TCPIPClient' and 'TCPIPSer
 
 Requirements: Any version of Windows 7+ with support the of NetFramework 4.0.
 
-<h2><b>General Knowledge</b></h2>
+<h2>General Knowledge</h2>
 
 The TCP/IP Server requires you to accept incoming connections from other machines, meaning that you must temporary disable your firewall or allow it (Windows 10+) for this application to run successfully. The TCP/IP Server features an auto IPv4 detection which will be placed as a default IP address on the appropriate text box. As you may know, there is a total of 65536 ports on a computer, well-known ports or system ports are <b>reserved</b> between 0 - 1023. A single port can be used to send or receive data, but only at one process at any given time. Since TCP/IP must use the combination of an IP address and a port number (End Point), if the port number has not been specified, a default port number of '23000' will be used.
 
